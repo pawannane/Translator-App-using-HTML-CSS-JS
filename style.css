@@ -166,7 +166,7 @@ body{
     }
 
     .controls .row .icons{
-        display: none;
+/*         display: none; */
     }
 
     .container button{
